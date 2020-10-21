@@ -1,12 +1,12 @@
 {
-	"homepage":"https://www.curseforge.com/minecraft/modpacks/forgeraft"
+	"homepage":"https://www.curseforge.com/minecraft/modpacks/forgeraft",
 	"perks": {
-		"latest":"1.16.3"
-		"recomended":""
+		"latest":"1.16.3",
+		"recomended":"",
 	}
 	"1.16": {
-		"1.16.1": ""
-		"1.16.2": ""
-		"1.16.3": ""
+		"1.16.1": "",
+		"1.16.2": "",
+		"1.16.3": "",
 	}
 }
